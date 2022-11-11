@@ -16,6 +16,7 @@ Front-End Design Essencial
 
 - HTML
 - CSS
+- JAVASCRIPT
 - JQuery
 - Git e GitHub
 
